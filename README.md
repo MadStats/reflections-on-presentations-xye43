@@ -67,6 +67,13 @@ What were aspects of the presentations for which you had concerns or questions:
 model is good but the result seems makes little sense.
 
 
+Title of presentation: game
+
+What were aspects of the presentation that you liked: interesting topic. Good question to be solved.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+How they measure the prediction precision.
 
 
 
