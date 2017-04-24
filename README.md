@@ -109,6 +109,14 @@ What were aspects of the presentations for which you had concerns or questions:
 Lots of discription instead of analysis.
 
 
+Title of presentation: GTD
+
+What were aspects of the presentation that you liked: My group
+
+What were aspects of the presentations for which you had concerns or questions:
+
+Need improvement on presentation time organization. Also, I forgot to explain more about the definition.
+
 
 
 
