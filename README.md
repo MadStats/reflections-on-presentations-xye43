@@ -75,5 +75,41 @@ What were aspects of the presentations for which you had concerns or questions:
 
 How they measure the prediction precision.
 
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked: cool topic
+
+What were aspects of the presentations for which you had concerns or questions:
+
+Outcome is not clear.
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked: combine several data set.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+Conclusion looks a little casual, for example, how you interpret the significant.
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked: interesting topic.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+be more careful about definition.
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked: interesting dataset.Pretty cool plots.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+Lots of discription instead of analysis.
+
+
+
+
 
 
